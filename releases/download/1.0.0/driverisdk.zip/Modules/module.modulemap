@@ -1,6 +1,0 @@
-framework module driverisdk {
-  umbrella header "dummy.h"
-
-  export *
-  module * { export * }
-}
