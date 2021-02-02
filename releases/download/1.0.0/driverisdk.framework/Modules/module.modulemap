@@ -1,6 +1,6 @@
 framework module driverisdk {
-  umbrella header "dummy.h"
+    umbrella header "driverisdk.h"
 
-  export *
-  module * { export * }
+    export *
+    module * { export * }
 }
